@@ -5,6 +5,7 @@
 	* Enable [reactive](https://docs.qmk.fm/#/feature_rgb_matrix?id=additional-configh-options) RGB effects
 	* RGB timeout 20 minutes
 	* Disable RGB when USB suspended (e.g. when PC goes to sleep)
+	* [VIA](https://www.caniusevia.com/docs/configuring_qmk/) support enabled
 
 ---
 
